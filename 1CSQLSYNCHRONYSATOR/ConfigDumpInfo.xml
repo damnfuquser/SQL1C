@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Configuration.SQLSYNCHRONYSATOR" id="6517a7a3-6ae2-4894-8f3a-35a54c659d82" configVersion="3251aaf5c91c9d8a7d43336a06e6b372363d09ae"/>
+		<Metadata name="Language.Русский" id="c18da8ac-e7f6-402f-8538-8aba24f01e54" configVersion="e8ca8357c3b91e3290ac76e1f3791f07e018d8fb"/>
+		<Metadata name="Role.Ext1_ОсновнаяРоль" id="9f541e65-9b46-4550-8b7f-688dd123e927" configVersion="21d83eed92855903d22d7b735674f903c918de67"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
